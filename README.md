@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Syed Mohammad Yasir</h1>
 <h3 align="center">A passionate Full Stack (MERN) developer from Bangladesh</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smy329" alt="smy329" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/smy329" target="blank"><img src="https://img.shields.io/twitter/follow/smy329?logo=twitter&style=for-the-badge" alt="smy329" /></a> </p>
 
 - 🌱 I’m currently learning **Redux, RTK Query, AdonisJS**
 
