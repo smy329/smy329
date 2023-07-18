@@ -17,8 +17,8 @@
 <p align="left">
 <a href="https://twitter.com/smy329" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" alt="smy329" height="50" width="50" /></a>
 <a href="https://linkedin.com/in/syedmohammadyasir" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="syedmohammadyasir" height="50" width="50" /></a>
-<a href="https://stackoverflow.com/users/8733282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8733282" height="30" width="60" /></a>
-<a href="https://discord.gg/syed.mohammad.yasir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="syed.mohammad.yasir" height="50" width="50" /></a>
+<a href="https://stackoverflow.com/users/8733282" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/StackOverflow-Dark.svg" alt="8733282" height="50" width="50" /></a>
+<a href="https://discord.gg/syed.mohammad.yasir" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" alt="syed.mohammad.yasir" height="50" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,6 +29,7 @@
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" alt="typescript" width="60" height="60"/> </a> 
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" alt="c" width="60" height="60"/> </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="python" width="60" height="60"/> </a> 
+    <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/R-Dark.svg" alt="R" width="60" height="60"/> </a> 
   </p>
 
 <h4 align="left">Frontend:</h4>
@@ -49,6 +50,7 @@
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Dark.svg" alt="express" width="60" height="60"/> </a> 
   <a href="https://adonisjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Adonis.svg" alt="adonisjs" width="60" height="60"/> </a> 
   <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GraphQL-Dark.svg" alt="graphql" width="60" height="60"/> </a> 
+  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Prisma.svg" alt="prisma" width="60" height="60"/> </a> 
   </p>
 
   <h4 align="left">Database:</h4>
@@ -68,9 +70,11 @@
   <h4 align="left">Tools:</h4>
   <p align="left">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="git" width="60" height="60"/> </a> 
+    <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="github" width="60" height="60"/> </a> 
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" alt="postman" width="60" height="60"/> </a> 
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Firebase-Dark.svg" alt="firebase" width="60" height="60"/> </a> 
     <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Netlify-Dark.svg" alt="netlify" width="60" height="60"/> </a>
+    <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vercel-Dark.svg" alt="netlify" width="60" height="60"/> </a>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" alt="figma" width="60" height="60"/> </a>
     <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/XD.svg" alt="xd" width="60" height="60"/> </a> 
      <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Photoshop.svg" alt="photoshop" width="60" height="60"/> </a> 
